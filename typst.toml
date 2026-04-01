@@ -1,12 +1,12 @@
 # for a description of available keys, see https://github.com/typst/packages/?tab=readme-ov-file#package-format
 
 [package]
-name = ""
+name = "drawmatrix"
 version = "0.1.0"
 entrypoint = "src/lib.typ"
 authors = []
-license = "Unlicense"
-description = ""
+license = "MIT"
+description = "Draw matrices in Typst! Inspired by the LaTeX package of the same name."
 homepage = ""
 repository = ""
 keywords = []

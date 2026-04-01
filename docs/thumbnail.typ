@@ -1,4 +1,9 @@
-#import "/src/lib.typ" as my-package: *
+#import "/src/lib.typ": drawmatrix
+
+#let dm = drawmatrix.with(stroke: black.lighten(50%))
+#let dmbig = dm.with(scale: 2, upper: true)
+#let dmtall = dm.with(height: 2)
+#let dmsmall = dm.with(upper: true)
 
 #set page(height: auto, margin: 5mm, fill: none)
 
@@ -7,4 +12,13 @@
 #set text(white) if theme == "dark"
 
 #set text(22pt)
-#align(center)[_a thumbnail showing the package's output_]
+
+$
+  #dmbig[$A$]
+  #dmtall[$X$]
+  +
+  #dmtall[$X$]
+  #dmsmall[$B$]
+  =
+  #dmtall[$C$]
+$

@@ -26,14 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Security
 
-## [0.1.0] - 2025-01-01
+## [0.1.0] - 2026-04-02
 
 ### Added
 
-<!-- Describe the feature set of the initial release here -->
--
--
--
+- Draw rectangular, triangular, and diagonal matrices
+- Configurable `stroke` and `fill`
 
 <!--
 Below are the target URLs for each version
@@ -42,5 +40,5 @@ to the corresponding tag on GitHub, or the diff
 in comparison to the previous release
 -->
 
-[Unreleased]: https://github.com/<author>/<my-package>/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/<author>/<my-package>/releases/tag/v0.1.0
+[Unreleased]: https://github.com/jonas-schulze/drawmatrix-typst/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/jonas-schulze/drawmatrix-typst/releases/tag/v0.1.0
