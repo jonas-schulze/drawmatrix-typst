@@ -5,7 +5,7 @@ Inspired by the LaTeX package [of the same name][drawmatrix].
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./thumbnail-dark.svg">
-  <img src="./thumbnail-light.svg">
+  <img src="./thumbnail-light.svg" alt="Sylvester equation in Schur form">
 </picture>
 
 ```typ

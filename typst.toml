@@ -9,11 +9,11 @@ authors = [
 ]
 license = "MIT"
 description = "Draw matrices in Typst! Inspired by the LaTeX package of the same name."
-homepage = ""
-repository = ""
-keywords = []
-categories = []
-disciplines = []
+# homepage = ""
+repository = "https://github.com/jonas-schulze/drawmatrix-typst"
+keywords = ["draw", "matrix"]
+categories = ["visualization"]
+# disciplines = []
 # compiler = ""
 exclude = [
   ".github",
