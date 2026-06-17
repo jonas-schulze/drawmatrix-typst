@@ -24,9 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Add alternative description for image in README
-- Fix `typst.toml`
-
 ### Security
 
 ## [0.1.0] - 2026-04-02
