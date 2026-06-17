@@ -4,7 +4,9 @@
 name = "drawmatrix"
 version = "0.1.0"
 entrypoint = "src/lib.typ"
-authors = []
+authors = [
+  "Jonas Schulze <https://github.com/jonas-schulze>",
+]
 license = "MIT"
 description = "Draw matrices in Typst! Inspired by the LaTeX package of the same name."
 homepage = ""
