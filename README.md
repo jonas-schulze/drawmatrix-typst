@@ -11,7 +11,7 @@ Inspired by the LaTeX package [of the same name][drawmatrix].
 ```typ
 #import "@preview/drawmatrix:0.1.0": drawmatrix
 
-#let dm = drawmatrix.with(color: black.lighten(50%))
+#let dm = drawmatrix.with(stroke: black.lighten(50%))
 #let dmbig = dm.with(scale: 2, upper: true)
 #let dmtall = dm.with(height: 2)
 #let dmsmall = dm.with(upper: true)
