@@ -8,7 +8,7 @@ authors = [
   "Jonas Schulze <https://github.com/jonas-schulze>",
 ]
 license = "MIT"
-description = "Draw matrices in Typst! Inspired by the LaTeX package of the same name."
+description = "Visualize matrices inside of equations. Inspired by the LaTeX package of the same name."
 # homepage = ""
 repository = "https://github.com/jonas-schulze/drawmatrix-typst"
 keywords = ["draw", "matrix"]
